@@ -2,7 +2,8 @@ class Pokemon
 
 attr_accessor :name, :type, :db, :id 
 
-def initialize(keyword)
+def initialize(keywords)
+end
 
 
   
